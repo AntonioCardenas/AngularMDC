@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './fab.component.html',
-  styleUrls: ['./fab.component.css']
+  styleUrls: ['./fab.component.scss']
 })
 export class FabComponent implements OnInit {
 

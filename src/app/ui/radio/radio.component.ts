@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './radio.component.html',
-  styleUrls: ['./radio.component.css']
+  styleUrls: ['./radio.component.scss']
 })
 export class RadioComponent implements OnInit {
 

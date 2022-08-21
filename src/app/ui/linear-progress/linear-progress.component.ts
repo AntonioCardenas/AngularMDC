@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './linear-progress.component.html',
-  styleUrls: ['./linear-progress.component.css']
+  styleUrls: ['./linear-progress.component.scss']
 })
 export class LinearProgressComponent implements OnInit {
 

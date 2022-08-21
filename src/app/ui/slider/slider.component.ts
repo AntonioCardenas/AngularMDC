@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './slider.component.html',
-  styleUrls: ['./slider.component.css']
+  styleUrls: ['./slider.component.scss']
 })
 export class SliderComponent implements OnInit {
 

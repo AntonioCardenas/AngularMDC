@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './layout-grid.component.html',
-  styleUrls: ['./layout-grid.component.css']
+  styleUrls: ['./layout-grid.component.scss']
 })
 export class LayoutGridComponent implements OnInit {
 

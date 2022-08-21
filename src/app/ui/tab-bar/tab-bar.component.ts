@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './tab-bar.component.html',
-  styleUrls: ['./tab-bar.component.css']
+  styleUrls: ['./tab-bar.component.scss']
 })
 export class TabBarComponent implements OnInit {
 

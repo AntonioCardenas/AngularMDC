@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './select.component.html',
-  styleUrls: ['./select.component.css']
+  styleUrls: ['./select.component.scss']
 })
 export class SelectComponent implements OnInit {
 

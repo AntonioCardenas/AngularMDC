@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './checkbox.component.html',
-  styleUrls: ['./checkbox.component.css']
+  styleUrls: ['./checkbox.component.scss']
 })
 export class CheckboxComponent implements OnInit {
 

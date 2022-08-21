@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './chips.component.html',
-  styleUrls: ['./chips.component.css']
+  styleUrls: ['./chips.component.scss']
 })
 export class ChipsComponent implements OnInit {
 

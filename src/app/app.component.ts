@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import {MDCRipple} from '@material/ripple';
+import { CardComponent } from './ui/card/card.component';
+
 let selector = '.mdc-button, .mdc-icon-button, .mdc-card__primary-action';
 let ripples = [].map.call(document.querySelectorAll(selector), function(el) {
   return new MDCRipple(el);

@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './ripple.component.html',
-  styleUrls: ['./ripple.component.css']
+  styleUrls: ['./ripple.component.scss']
 })
 export class RippleComponent implements OnInit {
 

@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './drawer.component.html',
-  styleUrls: ['./drawer.component.css']
+  styleUrls: ['./drawer.component.scss']
 })
 export class DrawerComponent implements OnInit {
 

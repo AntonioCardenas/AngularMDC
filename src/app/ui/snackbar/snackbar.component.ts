@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './snackbar.component.html',
-  styleUrls: ['./snackbar.component.css']
+  styleUrls: ['./snackbar.component.scss']
 })
 export class SnackbarComponent implements OnInit {
 

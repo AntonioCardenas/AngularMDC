@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './switch.component.html',
-  styleUrls: ['./switch.component.css']
+  styleUrls: ['./switch.component.scss']
 })
 export class SwitchComponent implements OnInit {
 

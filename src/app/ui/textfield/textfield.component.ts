@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './textfield.component.html',
-  styleUrls: ['./textfield.component.css']
+  styleUrls: ['./textfield.component.scss']
 })
 export class TextfieldComponent implements OnInit {
 

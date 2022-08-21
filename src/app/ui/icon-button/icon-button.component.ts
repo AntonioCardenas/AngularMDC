@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './icon-button.component.html',
-  styleUrls: ['./icon-button.component.css']
+  styleUrls: ['./icon-button.component.scss']
 })
 export class IconButtonComponent implements OnInit {
 
