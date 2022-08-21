@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@use "@material/theme" with (
+  $primary: #fcb8ab,
+  $secondary: #feeae6,
+  $on-primary: #442b2d,
+  $on-secondary: #442b2d,
+);
+@use "@material/typography/mdc-typography";
+
